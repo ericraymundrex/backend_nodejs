@@ -1,16 +1,24 @@
 {
   "name": "social_app",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"nodemon index.js"
+    "start": "nodemon index.js"
   },
   "author": "S Eric Raymund Rex",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.3",
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericraymundrex/backend_nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ericraymundrex/backend_nodejs/issues"
+  },
+  "homepage": "https://github.com/ericraymundrex/backend_nodejs#readme",
+  "description": ""
 }
